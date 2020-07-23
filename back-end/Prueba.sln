@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{B32C2542-8458-4F92-B95B-1B9F6AE6A796}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{B2B781D4-ECF3-4EC0-890E-962F56CEAE1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{3E9B6737-91F5-4F70-BD6F-0079F9C7D7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32C2542-8458-4F92-B95B-1B9F6AE6A796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32C2542-8458-4F92-B95B-1B9F6AE6A796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32C2542-8458-4F92-B95B-1B9F6AE6A796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32C2542-8458-4F92-B95B-1B9F6AE6A796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B781D4-ECF3-4EC0-890E-962F56CEAE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B781D4-ECF3-4EC0-890E-962F56CEAE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B781D4-ECF3-4EC0-890E-962F56CEAE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B781D4-ECF3-4EC0-890E-962F56CEAE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9B6737-91F5-4F70-BD6F-0079F9C7D7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9B6737-91F5-4F70-BD6F-0079F9C7D7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9B6737-91F5-4F70-BD6F-0079F9C7D7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9B6737-91F5-4F70-BD6F-0079F9C7D7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD8FF56-7F38-4BCF-A36B-E7CB3A9D19A2}
+	EndGlobalSection
+EndGlobal
